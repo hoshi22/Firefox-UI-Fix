@@ -2948,7 +2948,7 @@ menuitem.openintabs-menuitem,
 }
 :root:not([uidensity="compact"]) #urlbar-container,
 :root:not([uidensity="compact"]) #search-container {
-  padding-block: 2px !important;
+  padding-block: 6px !important;
 }
 
 /* spread menu */
