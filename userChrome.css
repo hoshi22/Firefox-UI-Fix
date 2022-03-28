@@ -5969,3 +5969,23 @@ menuitem.privatetab-icon {
 #torBrowserUserManual {
   --menuitem-image: url("chrome://browser/skin/onion.svg");
 }
+/* ================================================================================================================== */
+/* Tabs customizations */
+tab {
+  font-family: "Roboto" !important;
+  padding: 1px !important;
+}
+
+/* Bookmarks toolbar tuning */
+#PlacesToolbarItems .bookmark-item {
+  padding-top: 4px !important;
+  padding-bottom: 4px !important;
+  font-size: 14px !important;
+  font-family: "Roboto" !important;
+}
+
+/* Urlbar tuning */
+#urlbar {
+  margin-top: 2px !important;
+  margin-bottom: 2px !important;
+}
